@@ -4,10 +4,10 @@ public partial class Program
 {
     public static void Main()
     {
-        EjercicioPreguntasAI.EjecutarPreguntas();
-        //EjercicioVisualizadorArticulos.VisualizarArticulos();
-
-        //EjercicioManejoDeTexto.EjemploMayusculas();
+       //EjercicioPreguntasAI.EjecutarPreguntas();
+       //EjercicioVisualizadorArticulos.VisualizarArticulos();
+       //EjercicioManejoDeTexto.EjemploMayusculas();
+        EjercicioBolaMagica.Jugar();
 
     }
 
